@@ -38,4 +38,5 @@ To identify key factors affecting house prices, uncover patterns, segment the ma
 - Expand to statewide housing analysis
 
 ## 📊 Tableau Storyboard
-👉 [Click to view the full Tableau Story]((https://public.tableau.com/app/profile/unaza.ali/vizzes))
+👉 [Click to view the full Tableau Story](https://public.tableau.com/app/profile/unaza.ali/vizzes)
+
